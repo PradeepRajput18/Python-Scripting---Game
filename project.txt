@@ -1,3 +1,7 @@
+These are project directions what we have done and rquirements are
+
+These are :
+
 Assumptions:
 
 - data directory contains many files and directories
